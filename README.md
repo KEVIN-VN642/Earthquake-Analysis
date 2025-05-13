@@ -1,1 +1,2 @@
-"# Earthquake-Analysis" 
+### Final Lab Report on course Data Management and Analytics using SAS.
+Earthquakes happen regularly around the world and caused huge damages to humans and properties. Understanding these natural phenomena could help us to prepare and deal better with such disasters. Magnitude of earthquakes can be measured on different scales and features such as moment magnitude scale, body-wave magnitude scale, surface-wave magnitude scale. This Lab using SAS to analyze an earthquake dataset contained 23741 records to reveal the relationship between features and earthquake phenomena in different countries. 
